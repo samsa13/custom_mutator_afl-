@@ -1,15 +1,10 @@
 import random
 
-import random
-
-
 def init(seed):
     random.seed(seed)
 
-
 def deinit():
     pass
-
 
 def fuzz(buf, add_buf, max_size):
     mutators = [
@@ -24,7 +19,6 @@ def fuzz(buf, add_buf, max_size):
     mutator = random.choice(mutators)
     # print(mutator)
     return mutator(buf)
-
 
 def insert_box(buf):
     ret = bytearray(buf)
@@ -41,7 +35,6 @@ def insert_box(buf):
                 inserted_len += len(insert)
     ret = buf
     return ret
-
 
 def type_change(buf):
     ret = bytearray(buf)
