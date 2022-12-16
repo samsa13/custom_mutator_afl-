@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='imgs/IMG_4579.jpeg' width='4032' height='3024'>
+    <box top='0' left='0' width='4032' height='3024'/>
+  </image>
+  <image file='imgs/IMG_4624.jpeg' width='3024' height='4032'>
+    <box top='0' left='0' width='3024' height='4032'/>
+  </image>
+  <image file='imgs/IMG_4808.jpeg' width='3024' height='4032'>
+    <box top='0' left='0' width='3024' height='4032'/>
+  </image>
+  <image file='imgs/IMG_5202.jpeg' width='2320' height='3088'>
+    <box top='0' left='0' width='2320' height='3088'/>
+  </image>
+  <image file='imgs/IMG_6371.jpeg' width='3024' height='4032'>
+    <box top='0' left='0' width='3024' height='4032'/>
+  </image>
+  <image file='imgs/IMG_6439.JPG' width='4032' height='3024'>
+    <box top='0' left='0' width='4032' height='3024'/>
+  </image>
+  <image file='imgs/IMG_7028.JPG' width='4032' height='3024'>
+    <box top='0' left='0' width='4032' height='3024'/>
+  </image>
+  <image file='imgs/IMG_7113.jpeg' width='2316' height='3088'>
+    <box top='0' left='0' width='2316' height='3088'/>
+  </image>
+  <image file='imgs/IMG_7139.PNG' width='828' height='830'>
+    <box top='0' left='0' width='828' height='830'/>
+  </image>
+  <image file='imgs/TB6sWA4SmeE.jpg' width='1920' height='1440'>
+    <box top='0' left='0' width='1920' height='1440'/>
+  </image>
+  <image file='imgs/ZA3AFYs215k.jpg' width='1224' height='1632'>
+    <box top='0' left='0' width='1224' height='1632'/>
+  </image>
+  <image file='imgs/qOuDjYWjgQY.jpg' width='959' height='720'>
+    <box top='0' left='0' width='959' height='720'/>
+  </image>
+  <image file='imgs/xYiNv00Xye0.jpg' width='719' height='960'>
+    <box top='0' left='0' width='719' height='960'/>
+  </image>
+</images>
+</dataset>
